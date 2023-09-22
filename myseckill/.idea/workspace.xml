@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="myseckill:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="986bcaa5-14b9-4bd3-b138-4fe6059ca0b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JUnit4 Test Class" />
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:\maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CYW0uc4QklRU8v4QREBH0sPC7C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.luke.service.impl" />
+      <recent name="com.luke.dao" />
+      <recent name="com.luke" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideapro_project\mvcdemo\myseckill\src\main\resources\spring" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideapro_project\mvcdemo\myseckill\src\main\webapp\WEB-INF" />
+      <recent name="D:\ideapro_project\mvcdemo\myseckill\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.20">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillServiceImplTest.executeSeckill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myseckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luke.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luke.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.luke.service.impl.SeckillServiceImplTest" />
+      <option name="METHOD_NAME" value="executeSeckill" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillServiceImplTest.exportSeckillUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myseckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luke.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luke.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.luke.service.impl.SeckillServiceImplTest" />
+      <option name="METHOD_NAME" value="exportSeckillUrl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillServiceImplTest.getById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myseckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luke.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luke.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.luke.service.impl.SeckillServiceImplTest" />
+      <option name="METHOD_NAME" value="getById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillServiceImplTest.getSeckillList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myseckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luke.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luke.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.luke.service.impl.SeckillServiceImplTest" />
+      <option name="METHOD_NAME" value="getSeckillList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuccessKilledDaoTest.queryByIdWithSeckill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myseckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luke.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luke.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.luke.dao.SuccessKilledDaoTest" />
+      <option name="METHOD_NAME" value="queryByIdWithSeckill" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.20" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/myseckill/" />
+      <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="myseckill:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/myseckill" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_myseckill" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52475" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="myseckill:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SuccessKilledDaoTest.queryByIdWithSeckill" />
+      <item itemvalue="JUnit.SeckillServiceImplTest.getSeckillList" />
+      <item itemvalue="JUnit.SeckillServiceImplTest.getById" />
+      <item itemvalue="JUnit.SeckillServiceImplTest.exportSeckillUrl" />
+      <item itemvalue="JUnit.SeckillServiceImplTest.executeSeckill" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.20" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeckillServiceImplTest.executeSeckill" />
+        <item itemvalue="JUnit.SeckillServiceImplTest.exportSeckillUrl" />
+        <item itemvalue="JUnit.SeckillServiceImplTest.getById" />
+        <item itemvalue="JUnit.SeckillServiceImplTest.getSeckillList" />
+        <item itemvalue="JUnit.SuccessKilledDaoTest.queryByIdWithSeckill" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="986bcaa5-14b9-4bd3-b138-4fe6059ca0b5" name="Default Changelist" comment="" />
+      <created>1658979780407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658979780407</updated>
+      <workItem from="1658979781520" duration="16301000" />
+      <workItem from="1659036114996" duration="1186000" />
+      <workItem from="1659037321613" duration="57000" />
+      <workItem from="1659108026880" duration="12586000" />
+      <workItem from="1659120802225" duration="193000" />
+      <workItem from="1659121011174" duration="12000" />
+      <workItem from="1659190627699" duration="745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="63" width="1089" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1659116743616">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" width="1089" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1659116743616" />
+    <state x="483" y="208" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1659008867636">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="483" y="208" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1659008867636" />
+    <state x="574" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1659117772748">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1659117772748" />
+    <state x="499" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1659191221052">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1659191221052" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1659191293208">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1659191293208" />
+    <state width="1024" height="235" key="GridCell.Tab.0.bottom" timestamp="1659191378779">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1659191378779" />
+    <state width="1024" height="235" key="GridCell.Tab.0.center" timestamp="1659191378779">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1659191378779" />
+    <state width="1024" height="235" key="GridCell.Tab.0.left" timestamp="1659191378779">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1659191378779" />
+    <state width="1024" height="235" key="GridCell.Tab.0.right" timestamp="1659191378779">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1659191378779" />
+    <state width="1024" height="235" key="GridCell.Tab.1.bottom" timestamp="1659191378779">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1659191378779" />
+    <state width="1024" height="235" key="GridCell.Tab.1.center" timestamp="1659191378779">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1659191378779" />
+    <state width="1024" height="235" key="GridCell.Tab.1.left" timestamp="1659191378779">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1659191378779" />
+    <state width="1024" height="235" key="GridCell.Tab.1.right" timestamp="1659191378779">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1659191378779" />
+    <state width="1024" height="235" key="GridCell.Tab.2.bottom" timestamp="1659191378780">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1659191378780" />
+    <state width="1024" height="235" key="GridCell.Tab.2.center" timestamp="1659191378780">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1659191378780" />
+    <state width="1024" height="235" key="GridCell.Tab.2.left" timestamp="1659191378780">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1659191378779" />
+    <state width="1024" height="235" key="GridCell.Tab.2.right" timestamp="1659191378780">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="235" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1659191378780" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1659191374950">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1659191374950" />
+    <state x="540" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1659113642938">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="540" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.816@0.0.1536.816" timestamp="1659113642938" />
+    <state x="449" y="91" key="spring file set editor" timestamp="1658981899312">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="449" y="91" key="spring file set editor/0.0.1536.816@0.0.1536.816" timestamp="1658981899312" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luke/dao/SuccessKilledDaoTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
